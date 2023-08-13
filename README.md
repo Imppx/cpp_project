@@ -6,7 +6,7 @@ cmake ..
 make
 ```
 
-## run gtest cases
+## run gtest cases:
 ```bash
 # Method 1:
 ctest
